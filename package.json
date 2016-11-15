@@ -1,0 +1,15 @@
+{
+  "name": "osm-editor",
+  "version": "1.0.0",
+  "description": "A web app to make it easy to contribute to OpenStreetMaps.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/jakehm/osm-editor.git",
+    "type": "git"
+  },
+  "author": "Jake HM",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
